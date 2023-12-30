@@ -31464,10 +31464,6 @@ ul ul, ul ol, ol ul, ol ol {
   padding-bottom: 25px;
 }
 
-.rd-navbar-centered.rd-navbar-fullwidth.rd-navbar--is-stuck .rd-navbar-nav > li:nth-child(5), .rd-navbar-centered.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-nav > li:nth-child(5) {
-  display: none;
-}
-
 .rd-navbar-centered.rd-navbar-fullwidth.rd-navbar--is-stuck .rd-navbar-nav > li:nth-child(4) a:after, .rd-navbar-centered.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-nav > li:nth-child(4) a:after {
   display: inline-block;
 }
